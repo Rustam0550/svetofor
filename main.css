@@ -1,0 +1,43 @@
+.svetofor{
+      width: 120px;
+      height: 400px;
+      background-color: black;
+      margin: auto;
+}
+
+.round{
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        margin: 20px auto;
+        border-radius: 50%;
+        border: 2px solid white;
+        opacity: 0.5;
+        transition: 2s;
+}
+
+.line{
+     width: 20px;
+     height: 300px;
+     background-color: black;
+     margin: auto;
+}
+
+.line{
+     width: 20px;
+     height: 300px;
+     background-color: black;
+     margin: auto;
+}
+
+.red{
+background-color: red;
+}
+
+.green {
+background-color: green;
+}
+
+.round:hover{
+    opacity: 1;
+}
